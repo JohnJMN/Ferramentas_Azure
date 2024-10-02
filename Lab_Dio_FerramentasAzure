@@ -1,0 +1,14 @@
+Na aula, aprendemos sobre algumas ferramentas incríveis que a Microsoft Azure oferece para gerenciamento e automação de recursos. Vou compartilhar um pouco do que absorvi.
+
+PowerShell
+Primeiro, falamos sobre o PowerShell. É uma ferramenta de linha de comando super poderosa que permite automatizar tarefas e gerenciar configurações. O professor mostrou como podemos usar PowerShell para gerenciar recursos na nuvem Azure. Por exemplo, com alguns comandos, podemos criar, configurar e monitorar máquinas virtuais. Isso é ótimo para quem precisa gerenciar muitos recursos de forma eficiente.
+
+Azure Arc
+Depois, a aula focou no Azure Arc. Essa tecnologia é fascinante porque permite que a gente gerencie recursos que estão fora da Azure, como servidores locais ou em outras nuvens, tudo a partir do portal Azure. O professor explicou como podemos conectar esses recursos ao Azure Arc usando PowerShell, o que facilita muito a administração centralizada. É como ter um painel de controle único para tudo!
+
+Ferramentas de Implantação na Azure
+Por fim, vimos algumas ferramentas de implantação que a Azure oferece:
+
+Templates ARM: São arquivos JSON que descrevem a infraestrutura que queremos criar. Eles permitem que a gente faça implantações repetíveis e consistentes, o que é essencial para manter tudo organizado.
+Azure DevOps: Essa ferramenta integra processos de CI/CD (Integração Contínua/Entrega Contínua), automatizando o desenvolvimento e a implantação de aplicações. O professor mostrou como configurar pipelines para automatizar essas tarefas.
+Azure Resource Manager: É a plataforma de gerenciamento que usamos para criar, atualizar e excluir recursos na Azure. Com ela, podemos gerenciar tudo de forma organizada e controlada.
